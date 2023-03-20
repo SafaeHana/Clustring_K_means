@@ -1,4 +1,4 @@
-# Clustring_K_means:
+# Clustring K-means:
 ![image](https://user-images.githubusercontent.com/69175831/226476837-7c77eeea-8604-4e2d-90f0-5e7a5bec7a98.png)
 ## Problem Statement: 
 Lithionpower is the largest provider of electric vehicle(e-vehicle) batteries. 
